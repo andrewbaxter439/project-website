@@ -8,7 +8,7 @@ html{
 
 body{
 	margin:0;
-	padding-bottom: 20px;
+	padding-bottom: 0px;
 	background-color: #F4F7F9;
 }
 
@@ -66,4 +66,21 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	width: 100%;
 	z-index: 1;
 	top: 0px;
+}
+
+.footer {
+    background-color: #dde1f8;
+    padding: 1rem 1.5rem 2rem;
+}
+
+.svg-inline--fa {
+    height: 40px;
+	margin: 5px;
+}
+
+a {
+    color: #3273dc;
+    cursor: pointer;
+    text-decoration: none;
+	font-family: "Montserrat", montserrat, "Open sans",sans-serif;
 }
